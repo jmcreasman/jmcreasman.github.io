@@ -13,5 +13,4 @@ Notes:
 ###Point 2: Describe which aspects of each mindset I recognize in myself
 talk about labels vs how much easier it is to develop confidence through praising practice
 ###Point 3: Explain how I will apply this understanding to my experience here at The Iron Yard
-(uncharted wilderness/forest example)
- 
+(uncharted wilderness/forest example).
