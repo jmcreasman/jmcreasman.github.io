@@ -1,3 +1,4 @@
+##Draft 1
 In my first week here at The Iron Yard aside from getting use to the “emersion” way of learning the areas I had the most difficulty with learning how to use git command lines to push our work to github and how to set up mocha chai for our npm testing. Thankfully with the help of my fellow students and instructors I was able to create two checklists that made doing this a breeze.
 
 *Git commands for pushing to github*
