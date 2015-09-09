@@ -6,6 +6,7 @@ Another thing I learned that was new to me was a better understanding of how dev
 Finally I began learning some basic javascript commands such as functions, if/else statements, for loops and arrays and how I can use them in my coding to solve problems. Getting to use them in the homework assignments really helped in my understanding of how they work. For example during lecture when we disscussed functions I had a difficult time wrapping my head around how to use them. But over the weekend after using them over and over again I felt much more competent in my mastery of them. Here's hoping I can do that with arrays and loops in week two!
 
 Helpful check lists I made in week 1:
+
 *Git commands for pushing to github*
 * git status
 * git add filename (to stage it)
