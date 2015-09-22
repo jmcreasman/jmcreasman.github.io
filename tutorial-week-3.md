@@ -6,6 +6,9 @@ So to summarise quickly for anyone who has not read that essay; Me + CSS = Frust
 
 Sometimes when the goal seems too far away you need to give yourself a more achievable one. Often times that achievable goal is just reaching a point where you understand the subject matter. Here’s where it gets good, by spending the extra needed time understanding that subject matter (and thank God the weekend gives us that extra time) you’ll surprize yourself by just how much of the homework you’ll be able to complete with your new found knowledge. I hope this helps anyone who is currently feeling discouraged by the week’s work. Remember, sometimes you have to take a few steps back to take that giant leap forward. Just keep swimming guys!
 
-[will add a tl:dr version that's more step by step]
-TL:DR -- When the weekend homework looks to be overwhleming follow these steps
-1. When the weekend homework looks to be overwhleming 
+##TL:DR -- When the weekend homework looks to be overwhleming follow these steps:
+1. Write out a couple goals of what subjects you want to learn/research for the weekend that you think would help you with the homework - take baby steps
+2. Spend Thursday and Friday researching those goals (get to know them inside and out) - don't worry about the homework
+3. If you need some more time researching do that Saturday morning, but try and start the home work by at least noon
+4. Start on the homework - you'll be surprized by just how much you'll be able to complete with your new found knowledge
+5. Remember, if you didn't complete the homework 100% but still walked away with a much greater understanding of the subject....you won
