@@ -7,3 +7,5 @@ So to summarise quickly for anyone who has not read that essay; Me + CSS = Frust
 Sometimes when the goal seems too far away you need to give yourself a more achievable one. Often times that achievable goal is just reaching a point where you understand the subject matter. Here’s where it gets good, by spending the extra needed time understanding that subject matter (and thank God the weekend gives us that extra time) you’ll surprize yourself by just how much of the homework you’ll be able to complete with your new found knowledge. I hope this helps anyone who is currently feeling discouraged by the week’s work. Remember, sometimes you have to take a few steps back to take that giant leap forward. Just keep swimming guys!
 
 [will add a tl:dr version that's more step by step]
+TL:DR -- When the weekend homework looks to be overwhleming follow these steps
+1. When the weekend homework looks to be overwhleming 
