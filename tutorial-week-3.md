@@ -1,4 +1,4 @@
-##How to Homework
+##How to Homework when your Brain Says No
 
 Since this is suppose to be a tutorial based essay I thought I’d share how I go about completing the weekend homework when I feel like I can barely grasp the subject. I hope that this is helpful for anyone who might feel like they are falling behind on any given week’s topic. As I mentioned briefly in my other essay for this week I will be using the example of last weekend’s topic/homework (CSS).
 
