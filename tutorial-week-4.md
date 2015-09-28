@@ -1,4 +1,5 @@
 To be honest I have a difficult time coming up with topics for tutorial based journal entries but this one popped into my head so I figured I’d roll with it. Right now this is mostly just a stream of thoughts that I’ll flesh out over the week so bear with me if it doesn't make as much sense at first.
+
 How to make the most out of your weekend:
 With time management being a big issue with people trying to complete their homework on time the weekend can be a big sigh of relief. So I figured I’d share how I break down my weekend to make the most of my time.
 ##Thursday:
