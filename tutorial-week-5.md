@@ -18,6 +18,7 @@ I like to use this picture to help me visualise it
 Step 3: Style it in css
 This example uses <header>, <nav>, <section>, and <footer> to create a multiple column layout:
 Example:
+```
 <body>
 
 <header>
@@ -75,4 +76,4 @@ footer {
     text-align:center;
     padding:5px; 
 }
-
+```
