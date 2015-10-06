@@ -20,6 +20,7 @@ summary-Defines a heading for the details element
 
 ###Step 2: Know where they best fit together
 I like to use this picture to help me visualise it
+<blockquote class="imgur-embed-pub" lang="en" data-id="oLu1PRE"><a href="//imgur.com/oLu1PRE">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 [Imgur](http://i.imgur.com/oLu1PRE.gif)
 ###Step 3: Style it in css
 This example uses `<header>`, `<nav>`, `<section>`, and `<footer>` to create a multiple column layout:
