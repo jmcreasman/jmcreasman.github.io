@@ -18,11 +18,10 @@ footer-Defines a footer for a document or a section details Defines additional d
 
 summary-Defines a heading for the details element
 
-Step 2: Know where they best fit together
+###Step 2: Know where they best fit together
 I like to use this picture to help me visualise it
-<find that picture>
-
-Step 3: Style it in css
+[Imgur](http://i.imgur.com/oLu1PRE.gif)
+###Step 3: Style it in css
 This example uses `<header>`, `<nav>`, `<section>`, and `<footer>` to create a multiple column layout:
 Example:
 ```
