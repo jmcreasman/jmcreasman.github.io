@@ -1,15 +1,22 @@
-Website Layout Using HTML5
-Or
-How to Avoid Using Divs
+##Website Layout Using HTML5
+##Or
+##How to Avoid Using Divs
 
-Step 1: Know your containers and their purpose
-header Defines a header for a document or a section
-nav Defines a container for navigation links
-section Defines a section in a document
-article Defines an independent self-contained article
-aside Defines content aside from the content (like a sidebar)
-footer Defines a footer for a document or a section details Defines additional details
-summary Defines a heading for the details element
+###Step 1: Know your containers and their purpose
+
+header-Defines a header for a document or a section
+
+nav-Defines a container for navigation links
+
+section-Defines a section in a document
+
+article-Defines an independent self-contained article
+
+aside-Defines content aside from the content (like a sidebar)
+
+footer-Defines a footer for a document or a section details Defines additional details
+
+summary-Defines a heading for the details element
 
 Step 2: Know where they best fit together
 I like to use this picture to help me visualise it
