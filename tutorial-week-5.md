@@ -19,11 +19,11 @@ footer-Defines a footer for a document or a section details Defines additional d
 summary-Defines a heading for the details element
 
 ###Step 2: Know where they best fit together
-I like to use this picture to help me visualise it
-[Link](http://i.imgur.com/oLu1PRE.gif)
+I like to use [this](http://i.imgur.com/oLu1PRE.gif) picture to help me visualise it
 ###Step 3: Style it in css
 This example uses `<header>`, `<nav>`, `<section>`, and `<footer>` to create a multiple column layout:
 Example:
+HTML
 ```
 <body>
 
@@ -50,11 +50,14 @@ its history going back to its founding by the Romans, who named it Londinium.
 </section>
 
 <footer>
-Copyright © W3Schools.com
+Sources taken from W3Schools (please forgive me)
 </footer>
 
 </body>
-
+```
+Example:
+CSS
+```
 <style>
 header {
     background-color:black;
