@@ -1,60 +1,60 @@
-// credit to ericksonk for helping me get my sass working
-*, *:after, *:before {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-[class*='col-'] {
-  padding-right: 20px;
-}
-[class*='col-']:last-of-type {
-  padding-right: 0;
-}
-.grid {
-
-  &:after {
-  content: "";
-  display: table;
-  clear: both;
-  }
-  .col-1-12 {
-    float: left;
-    width: 8.33%;
-  }
-  #one {
-    background-color: #539A2F;
-  }
-  #two {
-    background-color: #9AA633;
-  }
-  #three {
-    background-color: #ACA135;
-  }
-  #four {
-    background-color: #AC8935;
-  }
-  #five {
-    background-color: #AC7135;
-  }
-  #six {
-    background-color: #AC4D35;
-  }
-  #seven {
-    background-color: #A13143;
-  }
-  #eight {
-    background-color: #942D8B;
-  }
-  #nine {
-    background-color: #613799;
-  }
-  #ten {
-    background-color: #2D3894;
-  }
-  #eleven {
-    background-color: #2D6994;
-  }
-  #twelve {
-    background-color: #2D946C;
-  }
-}
+// // credit to ericksonk for helping me get my sass working
+// *, *:after, *:before {
+//   -webkit-box-sizing: border-box;
+//   -moz-box-sizing: border-box;
+//   box-sizing: border-box;
+// }
+// [class*='col-'] {
+//   padding-right: 20px;
+// }
+// [class*='col-']:last-of-type {
+//   padding-right: 0;
+// }
+// .grid {
+//
+//   &:after {
+//   content: "";
+//   display: table;
+//   clear: both;
+//   }
+//   .col-1-12 {
+//     float: left;
+//     width: 8.33%;
+//   }
+//   #one {
+//     background-color: #539A2F;
+//   }
+//   #two {
+//     background-color: #9AA633;
+//   }
+//   #three {
+//     background-color: #ACA135;
+//   }
+//   #four {
+//     background-color: #AC8935;
+//   }
+//   #five {
+//     background-color: #AC7135;
+//   }
+//   #six {
+//     background-color: #AC4D35;
+//   }
+//   #seven {
+//     background-color: #A13143;
+//   }
+//   #eight {
+//     background-color: #942D8B;
+//   }
+//   #nine {
+//     background-color: #613799;
+//   }
+//   #ten {
+//     background-color: #2D3894;
+//   }
+//   #eleven {
+//     background-color: #2D6994;
+//   }
+//   #twelve {
+//     background-color: #2D946C;
+//   }
+// }
