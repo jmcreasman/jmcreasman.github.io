@@ -1,0 +1,14 @@
+##How to Homework when your Brain Says No
+
+Since this is suppose to be a tutorial based essay I thought I’d share how I go about completing the weekend homework when I feel like I can barely grasp the subject. I hope that this is helpful for anyone who might feel like they are falling behind on any given week’s topic. As I mentioned briefly in my other essay for this week I will be using the example of last weekend’s topic/homework (CSS).
+
+So to summarise quickly for anyone who has not read that essay; Me + CSS = Frustration. There, that’s about all ya need to know. So going into last weekend I felt like there was no way I was going to finish all that homework when I didn’t even understand half of what we were taught that weekend. And let’s face it, not being able to complete your goals (in this case the homework) is very discouraging. So I gave myself a new one. I told myself that before I even started on what the homework wanted me to do I was going to to pick one of our Blueprint CSS projects and study it inside out. I was going to learn what every class meant, what each css property/value did and how it affected what was on the page. I was going to look up and read every word I didn’t fully understand. Just by giving myself a goal I knew I could achieve changed my whole outlook on the subject matter. It was no longer something I could never understand because I had my starting point. If I went through the whole weekend and didn’t complete any of the homework, but came out of it understanding what CSS did and how it did it…..I would be ok with that.
+
+Sometimes when the goal seems too far away you need to give yourself a more achievable one. Often times that achievable goal is just reaching a point where you understand the subject matter. Here’s where it gets good, by spending the extra needed time understanding that subject matter (and thank God the weekend gives us that extra time) you’ll surprize yourself by just how much of the homework you’ll be able to complete with your new found knowledge. I hope this helps anyone who is currently feeling discouraged by the week’s work. Remember, sometimes you have to take a few steps back to take that giant leap forward. Just keep swimming guys!
+
+##TL:DR -- When the weekend homework looks to be overwhleming follow these steps:
+1. Write out a couple goals of what subjects you want to learn/research for the weekend that you think would help you with the homework - take baby steps
+2. Spend Thursday and Friday researching those goals (get to know them inside and out) - don't worry about the homework
+3. If you need some more time researching do that Saturday morning, but try and start the home work by at least noon
+4. Start on the homework - you'll be surprized by just how much you'll be able to complete with your new found knowledge
+5. Remember, if you didn't complete the homework 100% but still walked away with a much greater understanding of the subject....you won
