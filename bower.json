@@ -1,0 +1,23 @@
+{
+  "name": "jmcreasman",
+  "version": "0.0.2",
+  "homepage": "https://github.com/jmcreasman/jmcreasman.github.io",
+  "authors": [
+    "Jon <jmcreasman89@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
