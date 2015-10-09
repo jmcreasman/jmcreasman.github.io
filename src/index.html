@@ -19,13 +19,27 @@
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <div class="container">
-          nav bar
-          two columns
-        </div>
         <!-- Add your site or application content here -->
         <!-- // Credit to CHRIS COYIER for help - https://css-tricks.com/dont-overthink-it-grids/ -->
-
+        <main class="container">
+          <nav>
+            <div id="navleft">
+              <a href="https://www.facebook.com/jonathan.creasman"><img src="img/social/facebook.png" alt="Facebook" style="width:42px;height:42px;border:0;"></a>
+              <a href="https://twitter.com/TheCreasman"><img src="img/social/twitter.png" alt="Twitter" style="width:42px;height:42px;border:0;"></a>
+            </div>
+            <div id="navmiddle">
+              <a href="#lorem">About Me</a>
+              <a href="#lorem">Posts</a>
+              <a href="#lorem">Drafts</a>
+            </div>
+            <div id="navright">
+              <form>
+                <input type="text" placeholder="Search for a blog entry…">
+                <input type="submit" value="Search">
+              </form>
+            </div>
+          </nav>
+        </main>
         <script src="../bower_components/jquery/jquery.js"</script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
