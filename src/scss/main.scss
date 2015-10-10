@@ -7,12 +7,12 @@ body {
 
 .container {
   nav {
-    #navleft, #navmiddle, #navright {
+    #nav-left, #nav-middle, #nav-right {
       width: 33.33%;
       float: left;
       background-color: #30292B;
     }
-    #navleft {
+    #nav-left {
       h1 {
         font-family: Montserrat;
         color: #fffaf3;
@@ -22,7 +22,7 @@ body {
         padding-right: 60px;
       }
     }
-    #navmiddle {
+    #nav-middle {
       height: 46.25px;
       a {
         text-decoration: none;
@@ -31,7 +31,7 @@ body {
         margin-right: 60px;
       }
     }
-    #navright {
+    #nav-right {
       height: 46.25px;
       form {
         padding-left: 200px;
@@ -63,8 +63,18 @@ body {
   }
   .layout-left {
     width: 77.77%;
+    height: 1000px;
     background-color: green;
     opacity: 0.4;
+    .featured-blog {
+      height: 65%;
+      width: 75%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 40px;
+      background-color: blue;
+      opacity: 0.4;
+    }
   }
   .layout-right {
     width: 22.22%;
