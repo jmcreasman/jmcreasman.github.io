@@ -1,13 +1,38 @@
-.container {
-  background-color: #FFECD4;
-  nav {
-    #navleft, #navmiddle, #navright {
-      width: 33.33%;
-      float: left;
-      background-color: #30292B;
-    }
-    h1 {
-      float: right;
+body {
+  background-color: #FEEAD2;
+  .container {
+    nav {
+      #navleft, #navmiddle, #navright {
+        width: 33.33%;
+        float: left;
+        background-color: #30292B;
+      }
+      #navleft {
+        h1 {
+          font-family: Montserrat;
+          color: #fffaf3;
+          float: right;
+          margin: auto;
+          padding-top: 9px;
+          padding-right: 60px;
+        }
+      }
+      #navmiddle {
+        height: 46.25px;
+        a {
+          text-decoration: none;
+          font-family: Montserrat;
+          color: #fffaf3;
+          margin-right: 60px;
+        }
+      }
+      #navright {
+        height: 46.25px;
+        form {
+          padding-left: 200px;
+
+        }
+      }
     }
   }
 }
