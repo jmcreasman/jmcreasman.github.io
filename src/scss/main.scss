@@ -5,7 +5,7 @@ body {
 }
 // Styling for the top navagation bar
 
-.container {
+.supercontainer {
   nav {
     #nav-left, #nav-middle, #nav-right {
       width: 33.33%;
@@ -150,3 +150,33 @@ body {
     }
   }
 }
+// Styling for the layer slider
+// #cbp-fwslider * {
+//   -webkit-box-sizing: border-box;
+//   -moz-box-sizing: border-box;
+//   box-sizing: border-box;
+//   color: #47a3da;
+// }
+// .cbp-fwslider {
+//   position: relative;
+//   margin: 0 0 10px;
+//   overflow: hidden;
+//   padding: 40px 0 60px;
+// }
+// element.style {
+//   width: 500%;
+//   transition: transform 500ms ease;
+// }
+// .cbp-fwslider ul {
+//   margin: 0;
+//   padding: 0;
+//   white-space: nowrap;
+//   list-style-type: none;
+// }
+// .cbp-fwslider ul li {
+//   transform: translateZ(0);
+//   float: left;
+//   display: block;
+//   margin: 0;
+//   padding: 0;
+// }
