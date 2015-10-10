@@ -56,14 +56,13 @@ body {
 .layout {
   [class*='layout-'] {
     float: left;
-    padding-right: 20px;
   }
-  [class*='col-']:last-of-type {
-    padding-right: 0;
-  }
+  // Styling the left side
   .layout-left {
     width: 77.77%;
+    padding-right: 40px;
     padding-bottom: 100%;
+    // Styling the featured blog post section
     .featured-blog {
       height: 65%;
       width: 80%;
@@ -71,7 +70,7 @@ body {
       margin-right: auto;
       margin-top: 40px;
       background-color: #FFFAF3;
-      .details {
+      .details-featured-blog {
         padding: 60px 60px;
         h5 {
           font-family: Montserrat;
@@ -113,10 +112,41 @@ body {
       }
     }
   }
+  // Styling the right side
   .layout-right {
     width: 22.22%;
     padding-bottom: 100%;
-    background-color: red;
-    opacity: 0.4;
+    .bio {
+      margin-top: 40px;
+      height: 600px;
+      width: 100%;
+      background-color: #FFFAF3;
+      .details-bio{
+        padding: 0px 30px;
+        .bio-name {
+          text-align: center;
+          color: #30292b;
+          font-size: 18px;
+          font-family: 'Montserrat';
+          line-height: 25px;
+          font-weight: 400;
+        }
+        .bio-location {
+          text-align: center;
+          color: #e2ae69;
+          font-size: 12px;
+          font-family: 'Montserrat';
+          line-height: 13px;
+        }
+        .bio-bio {
+          text-align: center;
+          color: #635647;
+          font-size: 13px;
+          font-family: 'Raleway';
+          line-height: 25px;
+          font-weight: 500;
+        }
+      }
+    }
   }
 }
