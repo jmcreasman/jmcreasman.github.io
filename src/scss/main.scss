@@ -1,38 +1,122 @@
+// Styling for the entire body
+
 body {
   background-color: #FEEAD2;
-  .container {
-    nav {
-      #navleft, #navmiddle, #navright {
-        width: 33.33%;
-        float: left;
-        background-color: #30292B;
-      }
-      #navleft {
-        h1 {
-          font-family: Montserrat;
-          color: #fffaf3;
-          float: right;
-          margin: auto;
-          padding-top: 9px;
-          padding-right: 60px;
-        }
-      }
-      #navmiddle {
-        height: 46.25px;
-        a {
-          text-decoration: none;
-          font-family: Montserrat;
-          color: #fffaf3;
-          margin-right: 60px;
-        }
-      }
-      #navright {
-        height: 46.25px;
-        form {
-          padding-left: 200px;
+}
+// Styling for the top navagation bar
 
+.container {
+  nav {
+    #nav-left, #nav-middle, #nav-right {
+      width: 33.33%;
+      float: left;
+      background-color: #30292B;
+    }
+    #nav-left {
+      h1 {
+        font-family: Montserrat;
+        color: #fffaf3;
+        float: right;
+        margin: auto;
+        padding-top: 9px;
+        padding-right: 60px;
+      }
+    }
+    #nav-middle {
+      height: 46.25px;
+      a {
+        text-decoration: none;
+        font-family: Montserrat;
+        color: #fffaf3;
+        margin-right: 60px;
+      }
+    }
+    #nav-right {
+      height: 46.25px;
+      form {
+        padding-left: 200px;
+      }
+    }
+  }
+}
+// Styling the two column layout
+
+// // For column gutter - this may be a problem for other elements out side of the
+// two column layout
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.layout:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.layout {
+  [class*='layout-'] {
+    float: left;
+    padding-right: 20px;
+  }
+  [class*='col-']:last-of-type {
+    padding-right: 0;
+  }
+  .layout-left {
+    width: 77.77%;
+    padding-bottom: 100%;
+    .featured-blog {
+      height: 65%;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 40px;
+      background-color: #FFFAF3;
+      .details {
+        padding: 60px 60px;
+        h5 {
+          font-family: Montserrat;
+          text-transform: uppercase;
+          text-align: center;
+          a {
+            cursor: pointer;
+            padding: 4px 6px 4px 6px;
+            text-decoration: none;
+            letter-spacing: 3px;
+            border-style: solid;
+            border-width: 2px;
+            border-color: #E2AE69;
+            color: #30292b;
+          }
+        }
+        h2 {
+          text-align: center;
+          line-height: 35px;
+          a {
+            color: #30292b;
+            text-decoration: none;
+            letter-spacing: 1.5px;
+            cursor: pointer;
+          }
+        }
+        h6 {
+          font-size: 12px;
+          text-align: center;
+          color: #635647;
+        }
+        p {
+          color: #635647;
+          font-family: 'Raleway';
+          font-size: 13px;
+          line-height: 25px;
+          font-weight: 500;
         }
       }
     }
+  }
+  .layout-right {
+    width: 22.22%;
+    padding-bottom: 100%;
+    background-color: red;
+    opacity: 0.4;
   }
 }

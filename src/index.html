@@ -1,6 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="">
     <head>
+        <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -24,27 +25,44 @@
         <!-- // Credit to CHRIS COYIER for help - https://css-tricks.com/dont-overthink-it-grids/ -->
         <main class="container">
           <nav>
-            <div id="navleft">
+            <div id="nav-left">
               <a href="https://www.facebook.com/jonathan.creasman"><img src="img/social/facebook.png" alt="Facebook" style="width:42px;height:42px;border:0;"></a>
               <a href="https://twitter.com/TheCreasman"><img src="img/social/twitter.png" alt="Twitter" style="width:42px;height:42px;border:0;"></a>
               <h1>Ready...Set..Blog!</h1>
             </div>
-            <div id="navmiddle">
+            <div id="nav-middle">
               <a href="#lorem">About Me</a>
               <a href="#lorem">Posts</a>
               <a href="#lorem">Drafts</a>
             </div>
-            <div id="navright">
+            <div id="nav-right">
               <form>
                 <input type="text" placeholder="Search for a blog entry…">
                 <input type="submit" value="Search">
               </form>
             </div>
           </nav>
+          <div class="layout">
+            <section class="layout-left">
+              <article class="featured-blog">
+                <img src="img/featured-blog-pictures/blog-one.png" style="width:100%;height:50%;border:0;">
+                <div class="details">
+                <h5><a href="#">Reflective</a></h5>
+                <h2><a href="#">Diving In</a></h2>
+                <h6>By Jonathan Creasman on September 7th, 2015</h6>
+                <p>In my first week here at The Iron Yard aside from getting use to the “immersion” way of learning the areas I had the most difficulty with learning how to use git command lines to push our work to github and how to set up mocha chai for our npm testing. Thankfully with the help of my fellow students and instructors I was able to create two checklists that made doing this a breeze. As requested by the assignment I'm including these from my notes here to make...</p>
+                <hr>
+                <div>
+              </article>
+            </section>
+            <section class="layout-right">
+              Sidebar
+            </section>
+          </div>
         </main>
-        <script src="../bower_components/jquery/jquery.js"</script>
+        <script src="../bower_components/jquery/dist/jquery.js"</script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
+        <!-- <script src="js/plugins.js"></script> -->
         <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
