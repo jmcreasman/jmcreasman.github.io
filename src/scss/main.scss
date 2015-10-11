@@ -9,6 +9,7 @@ body {
   nav {
     #nav-left, #nav-middle, #nav-right {
       width: 33.33%;
+      height:100%;
       float: left;
       background-color: #30292B;
     }
@@ -19,7 +20,7 @@ body {
         float: right;
         margin: auto;
         padding-top: 9px;
-        padding-right: 60px;
+        padding-right: 30px;
       }
     }
     #nav-middle {
@@ -29,6 +30,7 @@ body {
         font-family: Montserrat;
         color: #fffaf3;
         margin-right: 60px;
+        padding-left: 10px;
       }
     }
     #nav-right {
