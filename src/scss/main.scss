@@ -104,12 +104,29 @@ body {
           text-align: center;
           color: #635647;
         }
-        p {
+        .excert {
           color: #635647;
           font-family: 'Raleway';
           font-size: 13px;
           line-height: 25px;
           font-weight: 500;
+        }
+        .read {
+          display:inline;
+          font-family: 'Montserrat';
+          text-decoration: none;
+          letter-spacing: 1.5px;
+          cursor: pointer;
+          color: #635647;
+        }
+        .post {
+          text-decoration: none;
+          display:inline;
+          padding-left: 314px;
+          font-family: 'Montserrat';
+          letter-spacing: 1.5px;
+          cursor: pointer;
+          color: #635647;
         }
       }
     }
