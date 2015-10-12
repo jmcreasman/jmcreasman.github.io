@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js" lang="">
     <head>
         <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
@@ -11,7 +11,8 @@
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
-        <script src="../bower_components/normalize-css/normalize.css"></script>
+        <link rel="stylesheet" href="../bower_components/Ionicons/css/ionicons.css"></link>
+        <!-- <link rel="stylesheet" href="../bower_components/normalize-css/normalize.css"></link> -->
         <link rel="stylesheet" href="css/main.css">
         <!-- need to finished linking modernizr -->
         <script src="../bower_components/modernizr"></script>
@@ -23,12 +24,14 @@
         <![endif]-->
         <!-- Add your site or application content here -->
         <!-- // Credit to CHRIS COYIER for help - https://css-tricks.com/dont-overthink-it-grids/ -->
+        <!-- My theme - http://indiegroundthemes.com/journey/version1/ -->
         <main class="supercontainer">
+          <!-- Top nav bar -->
           <nav>
             <div id="nav-left">
               <a href="https://www.facebook.com/jonathan.creasman"><img src="img/social/facebook.png" alt="Facebook" style="width:42px;height:42px;border:0;"></a>
               <a href="https://twitter.com/TheCreasman"><img src="img/social/twitter.png" alt="Twitter" style="width:42px;height:42px;border:0;"></a>
-              <h1>Ready...Set..Blog!</h1>
+              <h1>The Road Goes Ever On</h1>
             </div>
             <div id="nav-middle">
               <a href="#lorem">About Me</a>
@@ -42,26 +45,46 @@
               </form>
             </div>
           </nav>
+          <!-- Two column layout -->
           <div class="layout">
+            <!-- Left 2/3 column -->
             <section class="layout-left">
+              <!-- Featured blog section -->
               <article class="featured-blog">
-                <img src="img/featured-blog-pictures/blog-one.png" style="width:100%;height:50%;border:0;">
+                <img src="img/featured-blog-pictures/bagend.jpg" style="width:100%;height:450px;border:0;">
                 <div class="details-featured-blog">
-                <h5><a href="#">Reflective</a></h5>
-                <h2><a href="#">Diving In</a></h2>
-                <h6>By Jonathan Creasman on September 7th, 2015</h6>
-                <p>In my first week here at The Iron Yard aside from getting use to the “immersion” way of learning the areas I had the most difficulty with learning how to use git command lines to push our work to github and how to set up mocha chai for our npm testing. Thankfully with the help of my fellow students and instructors I was able to create two checklists that made doing this a breeze. As requested by the assignment I'm including these from my notes here to make...</p>
-                <hr>
-                <div>
+                  <h5><a href="#">Reflective</a></h5>
+                  <h2><a href="#">Taking the First Step</a></h2>
+                  <h6>By Jonathan Creasman on September 7th, 2015</h6>
+                  <p class="excert">In my first week here at The Iron Yard aside from getting use to the “immersion” way of learning the areas I had the most difficulty with learning how to use git command lines to push our work to github and how to set up mocha chai for our npm testing. Thankfully with the help of my fellow students and instructors I was able to create two checklists that made doing this a breeze. As requested by the assignment I'm including these from my notes here to make...</p>
+                  <hr>
+                  <p class="read"><i class="icon ion-ios-book"></i>&nbsp;Read Article</p>
+                  <p class="post"><i class="icon ion-chatbubble"></i>&nbsp;Post a Comment</p>
+                </div>
               </article>
             </section>
+            <!-- Right 1/3 column -->
             <section class="layout-right">
+              <!-- Bio section -->
               <article class="bio">
                 <img src="img/profile-picture.jpg" style="width:100%;height:55%;border:0;">
                 <div class="details-bio">
                   <p class="bio-name">Jonathan Creasman</p>
-                  <p class="bio-location">Durham, NC</p>
+                  <p class="bio-location"><i class="icon ion-location"></i>&nbsp;Durham, NC</p>
                   <p class="bio-bio">Hi my name is Jon and this is my Iron Yard journey! I use this awesome blog to tell people about my experiences here. I'll be sharing what I've learned as well as reflective thoughts and helpful tutorials and resources.</p>
+                </div>
+              </article>
+              <!-- Blog categories section -->
+              <article class="categories">
+                <div class="details-categories">
+                  <p>CATEGORIES</p>
+                  <ul>
+                    <li><a href="#">Reflective</a></li>
+                    <li><a href="#">Turotial</a></li>
+                    <li><a href="#">Resource</a></li>
+                  </ul>
+                  <p>QUOTE OF THE DAY</p>
+                  <p class="quote">“It's a dangerous business going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.”</p>
                 </div>
               </article>
             </section>

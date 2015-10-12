@@ -6,33 +6,43 @@ body {
 // Styling for the top navagation bar
 
 .supercontainer {
+
   nav {
+
     #nav-left, #nav-middle, #nav-right {
       width: 33.33%;
+      height:100%;
       float: left;
       background-color: #30292B;
     }
+
     #nav-left {
+
       h1 {
         font-family: Montserrat;
         color: #fffaf3;
         float: right;
         margin: auto;
         padding-top: 9px;
-        padding-right: 60px;
+        padding-right: 30px;
       }
     }
+
     #nav-middle {
       height: 46.25px;
+
       a {
         text-decoration: none;
         font-family: Montserrat;
         color: #fffaf3;
         margin-right: 60px;
+        padding-left: 10px;
       }
     }
+
     #nav-right {
       height: 46.25px;
+
       form {
         padding-left: 200px;
       }
@@ -48,20 +58,25 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
 .layout:after {
   content: "";
   display: table;
   clear: both;
 }
+
 .layout {
+
   [class*='layout-'] {
     float: left;
   }
+
   // Styling the left side
   .layout-left {
     width: 77.77%;
     padding-right: 40px;
-    padding-bottom: 100%;
+    // padding-bottom: 100%;
+
     // Styling the featured blog post section
     .featured-blog {
       height: 65%;
@@ -70,12 +85,15 @@ body {
       margin-right: auto;
       margin-top: 40px;
       background-color: #FFFAF3;
+
       .details-featured-blog {
-        padding: 60px 60px;
+        padding: 15px 60px;
+
         h5 {
           font-family: Montserrat;
           text-transform: uppercase;
           text-align: center;
+
           a {
             cursor: pointer;
             padding: 4px 6px 4px 6px;
@@ -87,9 +105,11 @@ body {
             color: #30292b;
           }
         }
+
         h2 {
           text-align: center;
           line-height: 35px;
+
           a {
             color: #30292b;
             text-decoration: none;
@@ -97,32 +117,57 @@ body {
             cursor: pointer;
           }
         }
+
         h6 {
           font-size: 12px;
           text-align: center;
           color: #635647;
         }
-        p {
+
+        .excert {
           color: #635647;
           font-family: 'Raleway';
           font-size: 13px;
           line-height: 25px;
           font-weight: 500;
         }
+
+        .read {
+          display:inline;
+          font-family: 'Montserrat';
+          text-decoration: none;
+          letter-spacing: 1.5px;
+          cursor: pointer;
+          color: #635647;
+        }
+
+        .post {
+          text-decoration: none;
+          display:inline;
+          padding-left: 314px;
+          font-family: 'Montserrat';
+          letter-spacing: 1.5px;
+          cursor: pointer;
+          color: #635647;
+        }
       }
     }
   }
+
   // Styling the right side
   .layout-right {
     width: 22.22%;
-    padding-bottom: 100%;
+    // padding-bottom: 100%;
+
     .bio {
       margin-top: 40px;
-      height: 600px;
+      height: 30%;
       width: 100%;
       background-color: #FFFAF3;
+
       .details-bio{
         padding: 0px 30px;
+
         .bio-name {
           text-align: center;
           color: #30292b;
@@ -131,6 +176,7 @@ body {
           line-height: 25px;
           font-weight: 400;
         }
+
         .bio-location {
           text-align: center;
           color: #e2ae69;
@@ -138,8 +184,59 @@ body {
           font-family: 'Montserrat';
           line-height: 13px;
         }
+
         .bio-bio {
+          text-align: left;
+          color: #635647;
+          font-size: 13px;
+          font-family: 'Raleway';
+          line-height: 25px;
+          font-weight: 500;
+        }
+      }
+    }
+
+    .categories {
+      margin-top: 20px;
+      height: 30%;
+      width: 100%;
+      background-color: #FFFAF3;
+
+      .details-categories{
+        padding: 10px 30px;
+
+        p {
+          font-size: 18px;
           text-align: center;
+          letter-spacing: 2px;
+          font-family: 'Montserrat';
+          line-height: 25px;
+          font-weight: 400;
+          color: #e2ae69;
+        }
+
+        ul {
+          text-decoration: none;
+        }
+
+        li {
+          border-bottom: 1px solid #f4e7d7;
+          line-height: 16px;
+          margin-bottom: 10px;
+          padding-bottom: 10px;
+          border-top: 0;
+          text-decoration: none;
+        }
+
+        a {
+          cursor: pointer;
+          color: #635647;
+          text-decoration: none;
+          padding: 8px 0;
+        }
+
+        .quote {
+          text-align: left;
           color: #635647;
           font-size: 13px;
           font-family: 'Raleway';
